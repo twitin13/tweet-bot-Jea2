@@ -13,13 +13,14 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-Joki PPT, Excel, esai, artikel, jurnal, laporan, daftar pustaka/isi, parafrase, proposal, skripsi, TOEFL/TOEIC, CV, desain, etc. 📚
+Open joki tugas 24/7  📚  ﾟ☾ ｡⋆
 
-Avail SD, SMP, SMA, kuliah‼️
-Dikerjakan tim profesional 🧑‍🎓
-Fee fleksibel, kerahasiaan data terjamin 100% aman 💯
+Jasa tulis / ketik word excel ppt, tugas soal, skripsi, makalah, proposal, jurnal, essay, laporan magang, parafrase, daftar pustaka / isi, brevet, TOEIC, TOEFL, dll.
 
-💌 WA di bio
+BISA SEMUA MATPEL/MATKUL ‼️
+
+📩 WA di bio 
+📌 Testi cek pinned
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,4 +37,5 @@ Fee fleksibel, kerahasiaan data terjamin 100% aman 💯
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
