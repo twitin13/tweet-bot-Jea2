@@ -13,14 +13,13 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-Open joki tugas 24/7  📚  ﾟ☾ ｡⋆
+Cari freelance / WFH? Affiliate aja gampang banget! 💸 
 
-Jasa tulis / ketik word excel ppt, tugas soal, skripsi, makalah, proposal, jurnal, essay, laporan magang, parafrase, daftar pustaka / isi, brevet, TOEIC, TOEFL, dll.
+Mulai 4K-an aja udah dapat TOTAL 6.000+ konten siap upload + link 🔥
 
-BISA SEMUA MATPEL/MATKUL ‼️
+🛒 Bisa akses kesini yaa lynk.id/swiftory
 
-📩 WA di bio 
-📌 Testi cek pinned
+t. cara tips info loker Shopee Lazada Tokopedia Tiktok bank kumpulan video lowongan kerja
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -37,5 +36,6 @@ BISA SEMUA MATPEL/MATKUL ‼️
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
